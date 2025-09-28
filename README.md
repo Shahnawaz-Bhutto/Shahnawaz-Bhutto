@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Shahnawaz-Bhutto</h1>
-<h3 align="center">Full Stack Web Developer | MERN Stack | AI & NLP Enthusiast</h3>
+<h3 align="center">Full Stack Web Developer | MERN Stack | </h3>
 
 ---
 
@@ -13,7 +13,7 @@
 - 🔭 **Currently working on:** **Front-End developer**  
 - 🌱 **Learning:** Advanced **DBMS** and **New technology**  
 - 💬 **Ask me about:** MERN Stack, Web Development  
-- 📫 **Email:** **hajibooshanu777"@gmail.com**  
+- 📫 **Email:** **hajibooshanu777@gmail.com**  
 
 ---
 
