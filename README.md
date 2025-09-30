@@ -19,7 +19,7 @@
 
 ## 🛠️ Skills & Tools
 <p align="center">
-
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="python" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="Node.js" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40" alt="Express" />
@@ -35,15 +35,20 @@
 ---
 
 ## 🚀 Current Project: NPA Acedmy LMS
-- **Tech Stack:** Javascript, react, bootstrap, MongoDB, RestAPI  
+- **Tech Stack:** Python, Javascript, react, bootstrap, MongoDB, RestAPI  
 - **Key Focus:**  
   - Scalable LMS system   
   - User friendly  
 - **Objective:** Create an **LMS** for User friendly and scalable  
 
 ---
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shahnawaz-Bhutto&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahnawaz-Bhutto&layout=compact&theme=tokyonight" alt="Top Languages" height="150"/>
+</p>
 
-
+---
 
 ## 🌐 Connect with Me
 <p align="center">
