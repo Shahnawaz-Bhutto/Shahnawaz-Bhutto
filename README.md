@@ -1,8 +1,8 @@
 # Shahnawaz-Bhutto
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://th.bing.com/th/id/R.03a4a5f034bf0bafa661fd8a8aabedc8?rik=O2cT6JPnp1MfGg&pid=ImgRaw&r=0" alt="Banner" />
-</p>
+</p> -->
 
 <h1 align="center">Hi 👋, I'm Shahnawaz-Bhutto</h1>
 <h3 align="center">Full Stack Web Developer | MERN Stack | </h3>
